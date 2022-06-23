@@ -4,5 +4,5 @@ helm:
     value: docker.io/sardan5/drone-demo
     forcestring: true
   - name: myalias.image.tag
-    value: v-13
+    value: v-14
     forcestring: true
