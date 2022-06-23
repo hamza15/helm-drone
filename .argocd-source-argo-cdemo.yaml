@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: myalias.image.name
+    value: docker.io/sardan5/drone-demo
+    forcestring: true
+  - name: myalias.image.tag
+    value: v-11
+    forcestring: true
